@@ -86,7 +86,10 @@ def BubbleSort(a):
         for j in range(n-i-1):
             if a[j]>a[j+1]:
                 a[j],a[j+1] = a[j+1],a[j]
-print(a)
-BubbleSort(a)
-print(a)
+# print(a)
+# BubbleSort(a)
+# print(a)
 
+# print(a)
+# BubbleSort_test(a)
+# print(a)
